@@ -1,0 +1,1 @@
+update statics set CompanyName='‰Ì«»… «·Õ”«‰Ì… «·Ã“∆Ì…'
